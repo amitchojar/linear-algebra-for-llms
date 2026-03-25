@@ -46,4 +46,4 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-Sha
 ---
 
 ## Feedback & Contributions
-Mathematical accuracy is a priority. If you find a typo in a formula or an error in a proof, please [Open an Issue](https://github.com/YOUR_USERNAME/linear-algebra-for-llms/issues).
+Mathematical accuracy is a priority. If you find a typo in a formula or an error in a proof, please [Open an Issue](https://github.com/amitchojar/linear-algebra-for-llms/issues).
