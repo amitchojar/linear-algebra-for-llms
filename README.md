@@ -29,7 +29,7 @@ This project is designed for engineers and researchers who want a geometric and 
 
 | Volume | Version | Status | Individual Downloads | Download Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Part 1: Foundations** | `v1.0` | ✅ Available | ![Part 1](https://img.shields.io/github/downloads/amitchojar/linear-algebra-for-llms/v1.0-foundations/total?label=Part%201&color=green) | [Download PDF](https://github.com/amitchojar/linear-algebra-for-llms/releases/tag/v1.0-foundations) |
+| **Part 1: Foundations** | `v1.0` | ✅ Available | ![Part 1](https://img.shields.io/github/downloads/amitchojar/linear-algebra-for-llms/v1.0-foundations/total?label=Part%201&color=green) | [Go to Download Page](https://github.com/amitchojar/linear-algebra-for-llms/releases/tag/v1.0-foundations) |
 | **Part 2: Applications** | `v1.0` | 🏗️ In Progress | ![Part 2](https://img.shields.io/github/downloads/amitchojar/linear-algebra-for-llms/v1.0-applications/total?label=Part%202&color=orange) | *Scheduled Q3 2026* |
 
 ---
